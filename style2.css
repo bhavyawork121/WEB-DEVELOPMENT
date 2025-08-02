@@ -1,0 +1,13 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+#title{
+    text-align: center;
+    text-transform: capitalize;
+}
+#Outer{
+    font-size:25px;
+}
+#Inner{
+    font-size:10px;
+}
