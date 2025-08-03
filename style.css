@@ -21,6 +21,8 @@ h1{
     text-decoration: none;
     font-weight: bolder;
     text-transform: uppercase;
+    height: 25px;
+    width: 110px;
 }
 #title{
     font-weight: lighter;
