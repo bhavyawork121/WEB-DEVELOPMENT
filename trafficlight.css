@@ -1,0 +1,29 @@
+.circles{
+    height: 80px;
+    width: 70px;
+    border-radius: 50%;
+    margin: 21.5px;
+    text-align: center;
+    border: 0cap;
+}
+#Circle-1{
+    background-color: red;
+    color:red;
+}
+#Circle-2{
+    background-color: yellow;
+    color:yellow
+}
+#Circle-3{
+    background-color: green;
+    color:green;
+}
+.traffic-light{
+    height:320px;
+    width: 120px;
+    background-color: black;
+    border-radius: 10px;
+    padding: 5px;
+    margin:5px;
+    align-items: center;
+}
