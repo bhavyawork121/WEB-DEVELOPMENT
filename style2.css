@@ -1,4 +1,4 @@
-*{
+/* *{
     font-family: 'Times New Roman', Times, serif;
 }
 #title{
@@ -23,4 +23,79 @@
     background-color: green;
     border-radius: 50px;
     
+}
+.BOX{
+    width:100px;
+    height:100px;
+    margin:10px;
+    border-radius: 10px;
+    padding: 10px;
+    display: inline-block;
+
+}
+#box1{
+    background-color: red;
+    
+}
+#box2{
+    background-color: blue;
+}
+#box3{
+    background-color: yellow;
+} */
+ #navbar{
+    background-color: #0f1111;
+    color: whitesmoke;
+    height: 60px;
+    padding: 10px 0px 0px 60px;
+   
+   
+}
+#navbar-button{
+    background-color: #f08804;
+    color:whitesmoke;
+    border-radius: 5px;
+    border: 2px solid #f08804;
+    
+}
+#logo{
+    color:#f08804;
+    text-decoration: none;
+    font-size: 20px;
+    
+}
+a{
+    margin-right: 200px;
+    text-decoration: none;
+    color:white;
+}
+.BOX{
+    width:100px;
+    height:100px;
+    margin:10px;
+    border-radius: 10px;
+    padding: 10px;
+    display: inline-block;
+    border-style: inset;
+    border:2px solid black;
+   
+    
+}
+#box1{
+    background-color: rgba(255, 0, 0, 0.5);
+    
+}
+#box2{
+    background-color: rgba(255, 0, 0, 0.6);
+}
+#box3{
+    background-color: rgba(255, 0, 0, 0.7);
+}
+footer{
+    background-color: #0f1111;
+    color: whitesmoke;
+    text-align: center;
+}
+#content{
+    height: 570px;
 }
